@@ -8,6 +8,7 @@
     "tailwindcss": "^0.6.5"
   },
   "scripts": {
+    "build": "tailwind build styles.css -o out.css",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Adam Finlayson",
