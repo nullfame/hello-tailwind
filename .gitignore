@@ -1,5 +1,8 @@
 ### Node ###
 
+# Don't store package-lock.json in example apps
+package-lock.json
+
 # Logs
 logs
 npm-debug.log*
